@@ -15,14 +15,3 @@
 [NYPD Transit Bureau Districts](https://www.nyc.gov/site/nypd/bureaus/transit-housing/transit.page)
 
 [NYPD Subway Evasion Reports](https://www.nyc.gov/site/nypd/stats/reports-analysis/subway-fare-evasion.page)
-
-## Command reference for mta-observable
-
-| Command           | Description                                              |
-| ----------------- | -------------------------------------------------------- |
-| `npm install`            | Install or reinstall dependencies                        |
-| `npm run dev`        | Start local preview server                               |
-| `npm run build`      | Build your static site, generating `./dist`              |
-| `npm run deploy`     | Deploy your project to Observable                        |
-| `npm run clean`      | Clear the local data loader cache                        |
-| `npm run observable` | Run commands like `observable help`                      |
