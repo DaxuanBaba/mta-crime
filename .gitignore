@@ -1,3 +1,6 @@
 # Ignore the MTA subway ridership CSV file (9 GB+)
 MTA_Subway_Hourly_Ridership__Beginning_February_2022_3.20.2024.csv
 data/~$fare-evasions-summonses-2018-2023.xlsx
+
+Turnstile_Usage_Data__2019_20240510.csv
+MTA_NYCT_Subway_Entrances_and_Exits__2015_20240510.csv
